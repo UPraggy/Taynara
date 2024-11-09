@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Taynara/static/css/main.1b4cc3ff.css",
+    "main.js": "/Taynara/static/js/main.b6ba23e3.js",
+    "static/js/453.b1be35e0.chunk.js": "/Taynara/static/js/453.b1be35e0.chunk.js",
+    "static/media/teste.mp3": "/Taynara/static/media/teste.6823907ca4bd153aa8ce.mp3",
+    "static/media/taySmile.png": "/Taynara/static/media/taySmile.2d3365fda5c8379c4c68.png",
+    "static/media/AlexBrush-Regular.ttf": "/Taynara/static/media/AlexBrush-Regular.2931994a26f7d46dab66.ttf",
+    "static/media/Sheepman-Bold.ttf": "/Taynara/static/media/Sheepman-Bold.5a7ee10f171dd79ecb77.ttf",
+    "static/media/Sheepman-Light.ttf": "/Taynara/static/media/Sheepman-Light.06085cff36687194c54f.ttf",
+    "index.html": "/Taynara/index.html",
+    "main.1b4cc3ff.css.map": "/Taynara/static/css/main.1b4cc3ff.css.map",
+    "main.b6ba23e3.js.map": "/Taynara/static/js/main.b6ba23e3.js.map",
+    "453.b1be35e0.chunk.js.map": "/Taynara/static/js/453.b1be35e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4cc3ff.css",
+    "static/js/main.b6ba23e3.js"
+  ]
+}
